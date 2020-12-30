@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ccc"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "mccourse:copper_block"
+    }
+  },
+  "result":
+  {
+    "item": "mccourse:copper_slab",
+    "count": 6
+  }
+}

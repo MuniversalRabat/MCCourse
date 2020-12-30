@@ -1,0 +1,7 @@
+{
+  "small_explosion": {
+    "category": "blocks",
+    "subtitle": "mccourse.small_explosion",
+    "sounds": [ "mccourse:small_explosion" ]
+  }
+}

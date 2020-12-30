@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "cwc",
+    "wbw",
+    "c c"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "mccourse:copper_ingot"
+    },
+    "w":
+    {
+      "item": "mccourse:copper_wire"
+    },
+    "b":
+    {
+      "item": "mccourse:copper_block"
+    }
+  },
+  "result":
+  {
+    "item": "mccourse:electrifier"
+  }
+}

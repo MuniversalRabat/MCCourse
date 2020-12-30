@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " w ",
+    "waw",
+    " w "
+  ],
+  "key":
+  {
+    "w":
+    {
+      "item": "mccourse:copper_wire"
+    },
+    "a":
+    {
+      "item": "minecraft:apple"
+    }
+  },
+  "result":
+  {
+    "item": "mccourse:coppered_apple"
+  }
+}
